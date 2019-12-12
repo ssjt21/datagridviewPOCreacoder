@@ -238,7 +238,7 @@ namespace PocExpRecoder
 
         private void BugToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Bug和意见反馈请发送至邮箱:\t\n\n\twang_di@topsec.com.cnt\n\n\t谢谢！\t", "意见反馈");
+            MessageBox.Show("Bug和意见反馈请发送至邮箱:\t\n\n\txxxnt\n\n\t谢谢！\t", "意见反馈");
         }
 
         //显示sqlite文件配置窗口
